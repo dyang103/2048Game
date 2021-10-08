@@ -1,0 +1,195 @@
+.tile {
+    background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.two {
+    background: #BFEFFF;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.four {
+    background: #84CEEB;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.eight {
+    background: #42C0FB;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.sixteen {
+    background: #0198E1;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.thirtytwo {
+    background: #007FFF;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}  
+
+.tile.sixtyfour {
+    background: #88ACE0;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.onetwentyeight {
+    background: #436EEE;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.twofiftysix {
+    background: #7171C6;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.fivetwelve {
+    background: #6A5ACD;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.thousandtwentyfour {
+    background: #AB82FF;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.tile.twentyfortyeight {
+    background: #CC99CC;
+  border: 1px solid #999;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 100px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+
+
+.reset {
+    margin-left : 30px;
+    margin-top : 50px;
+    margin-bottom : 50px;
+    height : 40px;
+    width : 60px;
+}
+
+.scoreBoard {
+    margin-left : 30px;
+    margin-top : 15px;
+    font-size : 35px;
+}
